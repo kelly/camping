@@ -1,4 +1,4 @@
-# Camping
+# Camping ⛺️
 
 Get an email notification when a campsite is available
 
