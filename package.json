@@ -1,0 +1,21 @@
+{
+  "name": "campground",
+  "version": "0.0.1",
+  "description": "find campsites",
+  "main": "camp.coffee",
+  "author": "Kelly Korevec",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "BSD",
+  "dependencies": {
+    "url": "0.10.3",
+    "cron": "1.0.8",
+    "moment": "2.15.1",
+    "underscore": "1.8.2",
+    "nightmare": "2.7.0",
+    "mailgun":"0.5.0",
+    "coffee-script":"1.11.1"
+  }
+}
